@@ -16,3 +16,8 @@ in the [libSQL organization](https://github.com/libsql) instead. Relevant reposi
 <a href="https://github.com/libsql/sqld">
   <img align="center" style="height:100px;width=200px" src="https://github-readme-stats.vercel.app/api/pin/?username=libsql&repo=sqld" />
 </a>
+
+### Code examples and experimental work
+
+We keep code examples (including third-party contributed) and other experimental code that we haven't yet made the commitment to support in a separate organization.
+Please find those at [turso-extended](https://github.com/turso-extended).
