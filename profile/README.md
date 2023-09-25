@@ -1,6 +1,6 @@
 ### What is Turso
   
-Turso is an edge database, built by the creators of [libSQL](https://libsql.org), the Open Contribution fork of SQLite.
+Turso is an edge database, built by the creators of [libSQL](https://turso.tech/libsql), the Open Contribution fork of SQLite.
 
 Turso allows you to develop locally and deploy globally to many locations around the world.
 Replication is easy and affordable, and it is fully controllable through an API.
