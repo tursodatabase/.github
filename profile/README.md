@@ -1,21 +1,18 @@
 ### What is Turso
   
-Turso is an edge database, built by the creators of [libSQL](https://turso.tech/libsql), the Open Contribution fork of SQLite.
+Turso is a serverless SQL database on the SQLite dialect, built by the creators of [libSQL](https://turso.tech/libsql), the Open Contribution fork of SQLite.
 
-Turso allows you to develop locally and deploy globally to many locations around the world.
+Turso allows you to keep the benefits of SQLite, like developing locally on a file, but take it to production either by
+* keeping multiple copies in sync,
+* accessing it over HTTP with global replication at the Edge.
+
 Replication is easy and affordable, and it is fully controllable through an API.
 
 ### Open Source
 
-The Turso database is fully Open Source, and we [offer a managed service](https://turso.tech). However, the core code of the database doesn't live in this organization, but
-in the [libSQL organization](https://github.com/libsql) instead. Relevant repositories:
-
-<a href="https://github.com/libsql/libsql">
-  <img align="center" style="height:100px;width=200px" src="https://github-readme-stats.vercel.app/api/pin/?username=libsql&repo=libsql" />
-</a>
-<a href="https://github.com/libsql/sqld">
-  <img align="center" style="height:100px;width=200px" src="https://github-readme-stats.vercel.app/api/pin/?username=libsql&repo=sqld" />
-</a>
+The Turso database is fully Open Source, and we [offer a managed service](https://turso.tech).
+The main repository is [libSQL](https://github.com/tursodatabase/libsql), where you will find the SQLite-replacement library and the server code for HTTP access.
+There are other repositories in this organization like the [turso CLI](https://github.com/tursodatabase/turso-cli).
 
 ### Code examples and experimental work
 
