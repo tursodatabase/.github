@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://docs.turso.tech/sdk/ts/quickstart">
-    <img alt="Turso" src="./profile/turso-banner.png" width="1000">
+    <img alt="Turso" src="./newbanner.jpg" width="1000">
     <h1 align="center">Turso</h1>
   </a>
 </p>
