@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://docs.turso.tech/sdk/ts/quickstart">
-    <img alt="Turso" src="./profile/newbanner.jpg" width="1000">
+    <img alt="Turso" src="./profile/turso-banner.jpg" width="1000">
     <h1 align="center">Turso</h1>
   </a>
 </p>
 
 <p align="center">
-  Turso is an SQLite-compatible database built on <a href="https://turso.tech/libsql">libSQL</a>, the Open Contribution fork of SQLite.
+  SQLite for Production. Powered by <a href="https://turso.tech/libsql">libSQL</a>.
 </p>
 
 <p align="center">
