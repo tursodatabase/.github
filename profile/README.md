@@ -1,25 +1,12 @@
-<p align="center">
-  <a href="https://docs.turso.tech/sdk/ts/quickstart">
-    <img alt="Turso" src="./profile/turso-banner.png" width="1000">
-    <h1 align="center">Turso</h1>
-  </a>
-</p>
+# Welcome to Turso
 
-<p align="center">
-  SQLite for Production. Powered by <a href="https://turso.tech/libsql">libSQL</a>.
-</p>
+SQLite for Production. Powered by <a href="https://turso.tech/libsql">libSQL</a>.
 
-<p align="center">
-  <a href="https://docs.turso.tech/quickstart"><strong>Quickstart</strong></a> ·
-  <a href="https://docs.turso.tech"><strong>Docs</strong></a> ·
-  <a href="https://github.com/tursodatabase/examples"><strong>Examples</strong></a> ·
-  <a href="https://dub.sh/turso-gh-discord"><strong>Discord</strong></a> ·
-  <a href="https://blog.turso.tech/"><strong>Blog &amp; Tutorials</strong></a>
-</p>
-
-## Hey 👋
-
-If you're new to Turso, you can get started following our [Quickstart Guide](https://docs.turso.tech/quickstart) where you will learn how to create, connect, and replicate a database.
+<a href="https://docs.turso.tech/quickstart"><strong>Quickstart</strong></a> ·
+<a href="https://docs.turso.tech"><strong>Docs</strong></a> ·
+<a href="https://github.com/tursodatabase/examples"><strong>Examples</strong></a> ·
+<a href="https://dub.sh/turso-gh-discord"><strong>Discord</strong></a> ·
+<a href="https://blog.turso.tech/"><strong>Blog &amp; Tutorials</strong></a>
 
 ### Turso
 
