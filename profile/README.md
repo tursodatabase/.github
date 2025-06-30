@@ -1,31 +1,46 @@
-# Welcome to Turso
+# Welcome 👋
 
-SQLite for Production. Powered by <a href="https://turso.tech/libsql">libSQL</a>.
+Turso is the small database to power your big dreams in the age of AI. The most efficient way to build for traditional applications, smart devices, embodied AI, agents, and anything in between.
 
-<a href="https://docs.turso.tech/quickstart"><strong>Quickstart</strong></a> ·
-<a href="https://docs.turso.tech"><strong>Docs</strong></a> ·
-<a href="https://github.com/tursodatabase/examples"><strong>Examples</strong></a> ·
-<a href="https://dub.sh/turso-gh-discord"><strong>Discord</strong></a> ·
-<a href="https://blog.turso.tech/"><strong>Blog &amp; Tutorials</strong></a>
+<p align="center">
+  <img src="profile/turso-banner.png" alt="Turso Database" width="800"/>
+  <h1 align="center">Turso Database</h1>
+</p>
 
-### Turso
+### Turso Database
 
-Turso is a fully managed database platform that you can use to create hundreds of thousands of databases per organization and supports replication to any location, including your own servers, for microsecond-latency access
+An embedded database engine that goes anywhere. Offline, in the browser, or on-device &mdash; **the next evolution of SQLite.**
+
+- **Vector Search** &mdash; Native similarity search for AI apps and RAG workflows, no extensions required.
+- **Async Design** &mdash; Modern async primitives such as Linux `io_uring` to keep your apps responsive.
+- **Concurrent Writes** (soon) &mdash; Multiple writers, zero conflicts, without locking.
+- **Observability** (soon) &mdash; Out of the box with open telemetry integration.
+- **SQLite Compatible** &mdash; Fully backwards compatible SQLite, but built for the next generation of agents.
+- **Open Contribution** &mdash; Take your seat at the table and contribute to the next evolution of SQLite.
+
+Get started with [Turso](https://github.com/tursodatabase/turso) shell:
+
+```bash
+curl -sSL tur.so/install | sh
+```
+
+Get started with Go, Java, JavaScript, Python, Rust, and Wasm using one of the [available bindings](https://github.com/tursodatabase/turso/tree/main/bindings) in progress.
+
+### Turso Cloud
+
+Create unlimited SQLite databases in the cloud for production workloads. Serverless access or sync.
+
+**Vector Search** &mdash; Native similarity search for AI apps and RAG workflows, no extensions required.
+**Replication &amp; Sync** &mdash; Keep devices in sync with each other on demand with Turso Cloud.
+**Branching** &mdash; Create isolated Copy-on-Write branches super fast.
+**Analytics** &mdash; Monitor performance and usage across databases.
+**Team Access** &mdash; Collaborate on databases with members, and manage access permissions.
+**Fully Managed** &mdash; We handle infrastructure, scaling, and security.
 
 - [Turso CLI](https://docs.turso.tech/cli/introduction) &mdash; Manage groups, databases, and API tokens with the Turso CLI.
 - [Turso Platform API](https://docs.turso.tech/api-reference/introduction) &mdash; Programmatically manage groups and databases using the Platform API.
-
-### libSQL
-
-The libSQL database, [server (`sqld`)](https://github.com/tursodatabase/libsql/tree/main/libsql-server), and client SDKs are all open source. You can build and run a libSQL instance yourself, or use the fully managed Turso platform.
-
-- [libSQL](https://github.com/tursodatabase/libsql)
-- [TypeScript / JS Client](https://github.com/tursodatabase/libsql-client-ts)
-- [Rust Client](https://github.com/tursodatabase/libsql/tree/main/libsql)
-- [Go Client](https://github.com/tursodatabase/libsql-client-go)
-- [Python Client (experimental)](https://github.com/tursodatabase/libsql-experimental-python)
-- [libSQL over HTTP (Hrana)](https://github.com/tursodatabase/libsql/blob/main/docs/HTTP_V2_SPEC.md)
+- [SDK Documentation](https://docs.turso.tech/sdk)
 
 ### 💚 Community
 
-Join the Turso community to ask questions, discuss best practices, and share tips on [Discord](https://dub.sh/turso-gh-discord) and [Twitter](https://twitter.com/tursodatabase).
+Join the Turso community to ask questions, share what you're working on, discuss best practices, and share tips on [Discord](https://dub.sh/turso-gh-discord), [Twitter](https://twitter.com/tursodatabase), and [LinkedIn](https://www.linkedin.com/company/turso).
