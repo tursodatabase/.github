@@ -4,7 +4,6 @@ Turso is the small database to power your big dreams in the age of AI. The most 
 
 <p align="center">
   <img src="/profile/turso-banner.png" alt="Turso Database" width="800"/>
-  <h1 align="center">Turso Database</h1>
 </p>
 
 ### Turso Database
