@@ -23,18 +23,25 @@ Get started with [Turso](https://github.com/tursodatabase/turso) shell:
 curl -sSL tur.so/install | sh
 ```
 
-Get started with Go, Java, JavaScript, Python, Rust, and Wasm using one of the [available bindings](https://github.com/tursodatabase/turso/tree/main/bindings) in progress.
+Get started with one of the Turso bindings:
+
+- [Go](https://github.com/tursodatabase/turso/tree/main/bindings/go)
+- [Java](https://github.com/tursodatabase/turso/tree/main/bindings/java)
+- [JavaScript](https://github.com/tursodatabase/turso/tree/main/bindings/javascript)
+- [Python](https://github.com/tursodatabase/turso/tree/main/bindings/python)
+- [Rust](https://github.com/tursodatabase/turso/tree/main/bindings/rust)
+- [Warm](https://github.com/tursodatabase/turso/tree/main/bindings/wasm)
 
 ### Turso Cloud
 
 Create unlimited SQLite databases in the cloud for production workloads. Serverless access or sync.
 
-**Vector Search** &mdash; Native similarity search for AI apps and RAG workflows, no extensions required.
-**Replication &amp; Sync** &mdash; Keep devices in sync with each other on demand with Turso Cloud.
-**Branching** &mdash; Create isolated Copy-on-Write branches super fast.
-**Analytics** &mdash; Monitor performance and usage across databases.
-**Team Access** &mdash; Collaborate on databases with members, and manage access permissions.
-**Fully Managed** &mdash; We handle infrastructure, scaling, and security.
+- **Vector Search** &mdash; Native similarity search for AI apps and RAG workflows, no extensions required.
+- **Replication &amp; Sync** &mdash; Keep devices in sync with each other on demand with Turso Cloud.
+- **Branching** &mdash; Create isolated Copy-on-Write branches super fast.
+- **Analytics** &mdash; Monitor performance and usage across databases.
+- **Team Access** &mdash; Collaborate on databases with members, and manage access permissions.
+- **Fully Managed** &mdash; We handle infrastructure, scaling, and security.
 
 - [Turso CLI](https://docs.turso.tech/cli/introduction) &mdash; Manage groups, databases, and API tokens with the Turso CLI.
 - [Turso Platform API](https://docs.turso.tech/api-reference/introduction) &mdash; Programmatically manage groups and databases using the Platform API.
