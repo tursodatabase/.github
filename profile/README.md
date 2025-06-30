@@ -3,7 +3,7 @@
 Turso is the small database to power your big dreams in the age of AI. The most efficient way to build for traditional applications, smart devices, embodied AI, agents, and anything in between.
 
 <p align="center">
-  <img src="profile/turso-banner.png" alt="Turso Database" width="800"/>
+  <img src="/profile/turso-banner.png" alt="Turso Database" width="800"/>
   <h1 align="center">Turso Database</h1>
 </p>
 
