@@ -43,9 +43,11 @@ Create unlimited SQLite databases in the cloud for production workloads. Serverl
 - **Team Access** &mdash; Collaborate on databases with members, and manage access permissions.
 - **Fully Managed** &mdash; We handle infrastructure, scaling, and security.
 
+Get started with Turso Cloud:
+
+- [Quickstart](https://docs.turso.tech) &mdash; Get started in seconds!
 - [Turso CLI](https://docs.turso.tech/cli/introduction) &mdash; Manage groups, databases, and API tokens with the Turso CLI.
 - [Turso Platform API](https://docs.turso.tech/api-reference/introduction) &mdash; Programmatically manage groups and databases using the Platform API.
-- [SDK Documentation](https://docs.turso.tech/sdk)
 
 ### 💚 Community
 
