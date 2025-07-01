@@ -30,7 +30,7 @@ Get started with one of the Turso bindings:
 - [JavaScript](https://github.com/tursodatabase/turso/tree/main/bindings/javascript)
 - [Python](https://github.com/tursodatabase/turso/tree/main/bindings/python)
 - [Rust](https://github.com/tursodatabase/turso/tree/main/bindings/rust)
-- [Warm](https://github.com/tursodatabase/turso/tree/main/bindings/wasm)
+- [Wasm](https://github.com/tursodatabase/turso/tree/main/bindings/wasm)
 
 ### Turso Cloud
 
