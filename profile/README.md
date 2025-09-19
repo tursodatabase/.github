@@ -25,12 +25,13 @@ curl -sSL tur.so/install | sh
 
 Get started with one of the Turso bindings:
 
-- [Go](https://github.com/tursodatabase/turso/tree/main/bindings/go)
+- [Go](https://github.com/tursodatabase/turso-go)
 - [Java](https://github.com/tursodatabase/turso/tree/main/bindings/java)
 - [JavaScript](https://github.com/tursodatabase/turso/tree/main/bindings/javascript)
 - [Python](https://github.com/tursodatabase/turso/tree/main/bindings/python)
 - [Rust](https://github.com/tursodatabase/turso/tree/main/bindings/rust)
-- [Wasm](https://github.com/tursodatabase/turso/tree/main/bindings/wasm)
+- [Browser](https://github.com/tursodatabase/turso/tree/main/bindings/javascript/sync/packages/browser)
+- [Turso Sync](https://github.com/tursodatabase/turso/tree/main/bindings/javascript/sync)
 
 ### Turso Cloud
 
@@ -48,7 +49,8 @@ Get started with Turso Cloud:
 - [Quickstart](https://docs.turso.tech) &mdash; Get started in seconds!
 - [Turso CLI](https://docs.turso.tech/cli/introduction) &mdash; Manage groups, databases, and API tokens with the Turso CLI.
 - [Turso Platform API](https://docs.turso.tech/api-reference/introduction) &mdash; Programmatically manage groups and databases using the Platform API.
+- [Turso Serverless](https://www.npmjs.com/package/@tursodatabase/serverless)
 
-### 💚 Community
+### Community
 
 Join the Turso community to ask questions, share what you're working on, discuss best practices, and share tips on [Discord](https://dub.sh/turso-gh-discord), [Twitter](https://twitter.com/tursodatabase), and [LinkedIn](https://www.linkedin.com/company/turso).
